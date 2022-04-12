@@ -141,7 +141,7 @@ button {
   color: hsl(228, 45%, 44%);
 }
 
-@media (min-width: 768px) {
+@media (min-width: 550px) {
   .overlay {
     background: url("./images/pattern-background-desktop.svg") no-repeat
       center/cover;
@@ -149,6 +149,6 @@ button {
   }
 
   .container {
-    width: 500px;
+    width: 350px;
   }
 }
